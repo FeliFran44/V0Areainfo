@@ -16,7 +16,7 @@ export function FounderSection() {
                 <div className="relative">
                   <div className="w-64 h-64 rounded-full overflow-hidden border-4 border-cyan-400 shadow-2xl">
                     <img
-                      src="/placeholder.svg?height=256&width=256"
+                      src="/mauricio.jpeg?height=256&width=256"
                       alt="Mauricio Favaro"
                       className="w-full h-full object-cover"
                     />
