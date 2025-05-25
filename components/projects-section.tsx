@@ -59,13 +59,13 @@ const clientProjects = [
     name: "Proyecto Apartamento Punta Carretas",
     description:
       "Junto al estudio de arquitectos se realizó un análisis de cobertura, seguido por la instalación de 14 cámaras IP Hikvision, 6 Access Point Ubiquiti para WiFi total y un sistema de telefonía IP Grandstream.",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/proyecto apartamento punta carretas.jpeg?height=300&width=400",
   },
   {
     name: "Digital Outlet",
     description:
       "Actualización de infraestructura en Digital Outlet: más de 50 cámaras IP, 8 Access Point, control de acceso, telefonía IP y más de 40 puestos de red, con equipamiento Mikrotik, Ubiquiti, Hikvision y Grandstream.",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/digitaloutlet.jpeg?height=300&width=400",
   },
   {
     name: "PCM Uruguay SA",
