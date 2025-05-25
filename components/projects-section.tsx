@@ -113,7 +113,7 @@ const clientProjects = [
     name: "Costa Logística",
     description:
       "Instalación de 160 cámaras IP Hikvision en Costa Logística, incluyendo térmicas para seguridad perimetral y sistema de grabación centralizado, con monitoreo y asesoramiento mensual de red.",
-    image: "/Costa Logística.jpeg?height=300&width=400",
+    image: "/Costa Logistica.jpeg?height=300&width=400",
   },
 ]
 
