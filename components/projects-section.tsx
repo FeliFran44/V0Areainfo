@@ -71,37 +71,37 @@ const clientProjects = [
     name: "PCM Uruguay SA",
     description:
       "Se realizó la implementación de un sistema de CCTV IP, reconfiguración completa de RED y organización de Rack de Datos.",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/PCM uruguay SA.jpeg?height=300&width=400",
   },
   {
     name: "CDR medios",
     description:
       "Se realizó la instalación de 2 Access Point, 3 Switches UniFi y un Mikrotik 3011 con dos conexiones a internet. Balanceo, Vlans, VPNs, y otros servicios.",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/CDR medios.jpeg?height=300&width=400",
   },
   {
     name: "MANCRU SA",
     description:
       "Mancur SA confió en la solución brindada por AREAINFO Comunicaciones para lograr una estabilidad y mejorar la seguridad a nivel de conectividad.",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/MANCRU SA.jpeg?height=300&width=400",
   },
   {
     name: "Kaibil Seguridad",
     description:
       "Kaibil Seguridad cuenta con nuestro servicio mensual de asesoramiento y monitoreo, asegurando una red actualizada y protegida.",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Kaibil Seguridad.jpeg?height=300&width=400",
   },
   {
     name: "Serviport Seguridad",
     description:
       "Mejora de red y telefonía para Serviport con router Mikrotik, AP Ubiquiti y central IP Grandstream, junto a servicio mensual de asesoramiento y monitoreo.",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Serviport Seguridad.jpeg?height=300&width=400",
   },
   {
     name: "Frog oficinas",
     description:
       "Implementación de 6 AP Ubiquiti tras relevamiento de cobertura, con asesoramiento en uso de VLANs para control de usuarios conectados.",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Frog oficinas.jpeg?height=300&width=400",
   },
   {
     name: "Casa Jorge",
