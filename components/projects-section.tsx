@@ -9,7 +9,7 @@ const featuredProjects = [
     title: "Copa América 2024 - Estados Unidos",
     description:
       "Participamos en la Copa América USA, donde fuimos contratados para auditar la conectividad y brindar soporte IT en 13 de las 14 sedes del torneo. Desplegamos un equipo de 11 profesionales en distintas ciudades de Estados Unidos.",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/copaamericaareainfo.jpeg?height=300&width=400",
     icon: Trophy,
     badge: "Internacional",
   },
