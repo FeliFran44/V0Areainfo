@@ -17,7 +17,7 @@ const featuredProjects = [
     title: "Libertadores y Sudamericana 2021 - Estadio Centenario",
     description:
       "Responsables de proporcionar conectividad a internet mediante el despliegue de Access Points y Cableado Estructurado en el perímetro del Estadio Centenario para las finales de Conmebol.",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/libertadoresareainfo.jpeg?height=300&width=400",
     icon: Trophy,
     badge: "Deportivo",
   },
@@ -25,7 +25,7 @@ const featuredProjects = [
     title: "Concierto de los Rolling Stones",
     description:
       "Brindamos conectividad a internet en los puntos de acceso al show de los Rolling Stones en el Estadio Centenario. Se realizaron enlaces y cableados para garantizar una conexión estable.",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/rollingstonesareainfo.jpeg?height=300&width=400",
     icon: Users,
     badge: "Entretenimiento",
   },
