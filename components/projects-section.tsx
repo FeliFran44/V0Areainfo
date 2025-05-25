@@ -41,19 +41,19 @@ const clientProjects = [
   {
     name: "Emme Sistemas",
     description: "Cableado estructurado y reinstalación de equipamientos activos en el nuevo local de la empresa.",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Emme sistemas.jpeg?height=300&width=400",
   },
   {
     name: "Club Náutico Montevideo",
     description:
       "Al cliente Club Náutico Montevideo se le brindó apoyo en la organización de Rack Principal, instalación de switches Ubiquiti y reconfiguración de WiFi.",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Club nautico montevideo.jpeg?height=300&width=400",
   },
   {
     name: "Montecuir Suc. Malvín",
     description:
       "Implementación integral de red y seguridad para Montecuir Malvín, en conjunto con Mollo Seguridad Electrónica.",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/montecuir suc. malvin.jpeg?height=300&width=400",
   },
   {
     name: "Proyecto Apartamento Punta Carretas",
