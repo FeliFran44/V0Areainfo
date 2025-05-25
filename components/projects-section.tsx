@@ -107,13 +107,13 @@ const clientProjects = [
     name: "Casa Jorge",
     description:
       "Casa Jorge cuenta con una implementación de más de 85 cámaras de tipo IP de la marca Hikvision, y una RED de conectividad con equipamiento Ubiquiti compuesto por switches y access points.",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Casa Jorge.jpeg?height=300&width=400",
   },
   {
     name: "Costa Logística",
     description:
       "Instalación de 160 cámaras IP Hikvision en Costa Logística, incluyendo térmicas para seguridad perimetral y sistema de grabación centralizado, con monitoreo y asesoramiento mensual de red.",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Costa Logística.jpeg?height=300&width=400",
   },
 ]
 
