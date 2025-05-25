@@ -36,7 +36,7 @@ const clientProjects = [
     name: "Administraciones Renom",
     description:
       "Instalación de cableado estructurado para Datos, Telefonía, CCTV y WiFi, utilizando equipos de última generación.",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/administraciones renom.jpeg?height=300&width=400",
   },
   {
     name: "Emme Sistemas",
